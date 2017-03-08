@@ -1,2 +1,3 @@
-ciao come stai
-mi sono accorto dell'errore
+﻿ciao come stai
+qui c'è un errore
+
